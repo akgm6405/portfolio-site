@@ -13,7 +13,7 @@ export default function Skills() {
           <strong>Data Engineering Tools:</strong> PostgreSQL, OracleDB, ElasticSearch, REST APIs, Spring Boot
         </li>
         <li>
-          <strong>Web Technologies:</strong> Angular 7/8/10, HTML5, CSS, Bootstrap, Angular Material
+          <strong>Web Technologies:</strong> Angular 7/8/10, HTML5, CSS, Bootstrap, Angular Material, React Native
         </li>
         <li>
           <strong>Frameworks & Tools:</strong> Spring Boot, Visual Studio Code, Bitbucket, SVN
